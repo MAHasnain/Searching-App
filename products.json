@@ -1,0 +1,153 @@
+{
+  "Laptops": {
+    "Apple": [
+      "MacBook Air M1",
+      "MacBook Air M2",
+      "MacBook Pro 13",
+      "MacBook Pro 14",
+      "MacBook Pro 16"
+    ],
+    "Dell": [
+      "XPS 13",
+      "XPS 15",
+      "Inspiron 14",
+      "Latitude 7420",
+      "Alienware m16"
+    ],
+    "HP": [
+      "Pavilion x360",
+      "Envy 13",
+      "Spectre x360",
+      "Omen 16",
+      "Victus 15"
+    ],
+    "Lenovo": [
+      "ThinkPad X1 Carbon",
+      "IdeaPad Slim 5",
+      "Legion 5 Pro",
+      "Yoga 7i",
+      "LOQ Gaming"
+    ],
+    "Asus": [
+      "ZenBook 14",
+      "Vivobook S15",
+      "TUF Gaming A15",
+      "ROG Zephyrus G14",
+      "ExpertBook B5"
+    ]
+  },
+
+  "Gaming PCs": {
+    "Alienware": [
+      "Aurora R15",
+      "Aurora R14",
+      "Aurora Ryzen Edition",
+      "Area-51m",
+      "Alpha R2"
+    ],
+    "HP Omen": [
+      "OMEN 25L",
+      "OMEN 30L",
+      "OMEN GT12",
+      "OMEN Obelisk",
+      "OMEN Transcend"
+    ],
+    "Corsair": [
+      "Vengeance i7400",
+      "One i500",
+      "Vengeance a7200",
+      "One Elite",
+      "One Pro"
+    ],
+    "MSI": [
+      "Trident X",
+      "Aegis RS",
+      "Codex R",
+      "Infinite X",
+      "MEG Trident AS"
+    ],
+    "Asus ROG": [
+      "ROG Strix G10",
+      "ROG Strix GA35",
+      "ROG Huracan",
+      "ROG G20",
+      "ROG Strix GL12"
+    ]
+  },
+
+  "Graphic Cards": {
+    "Nvidia": [
+      "RTX 3060",
+      "RTX 3070",
+      "RTX 3080",
+      "RTX 4070",
+      "RTX 4090"
+    ],
+    "AMD": [
+      "Radeon RX 6600",
+      "RX 6700 XT",
+      "RX 6800",
+      "RX 6900 XT",
+      "RX 7900 XTX"
+    ],
+    "Zotac": [
+      "RTX 3060 Twin Edge",
+      "RTX 3070 AMP Holo",
+      "RTX 3080 Trinity",
+      "RTX 4070 Ti AMP Extreme",
+      "GTX 1660 Super"
+    ],
+    "MSI": [
+      "Ventus 2X OC",
+      "Gaming X Trio",
+      "Mech 2X",
+      "Suprim X",
+      "Armor OC"
+    ],
+    "Gigabyte": [
+      "Eagle OC",
+      "Vision OC",
+      "Aorus Master",
+      "Gaming OC",
+      "Turbo Edition"
+    ]
+  },
+
+  "Monitors": {
+    "Samsung": [
+      "Odyssey G3",
+      "Smart M8",
+      "Curved CR50",
+      "Odyssey Neo G8",
+      "ViewFinity S6"
+    ],
+    "LG": [
+      "UltraGear 27GL83A",
+      "UltraFine 5K",
+      "Ergo 32UN880",
+      "UltraWide 34WN80C",
+      "27GP950"
+    ],
+    "Dell": [
+      "S2721DGF",
+      "U2723QE UltraSharp",
+      "Alienware AW3423DW",
+      "P2723DE",
+      "G3223Q"
+    ],
+    "ASUS": [
+      "TUF Gaming VG27AQ",
+      "ROG Swift PG32UQ",
+      "ProArt PA278QV",
+      "VA24DQ",
+      "ROG Strix XG27AQ"
+    ],
+    "BenQ": [
+      "EX3501R",
+      "PD2700U",
+      "EW3270U",
+      "ZOWIE XL2546",
+      "MOBIUZ EX2710Q"
+    ]
+  }
+}
