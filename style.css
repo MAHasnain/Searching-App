@@ -1,0 +1,113 @@
+:root {
+    --Taupe-brown: #4B4237;
+    --Goldenrod: #D5A021;
+    --Alabaster: #EDE7D9;
+    --Taupe-gray: #A49694;
+    --dim-gray: #736B60;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* .quicksand-font {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+} */
+
+html, body {
+    font-family: "Quicksand", sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: var(--Taupe-gray);
+
+}
+
+.hidden {
+    display: none;
+}
+
+.prevent-select {
+    user-select: none;
+}
+
+.container {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+}
+
+.dropdown {
+    padding: 2%;
+    padding-left: 150px;
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+}
+
+.dropdown select {
+    background-color: var(--Alabaster);
+    color: var(--dim-gray);
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+    width: 15%;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.heading h2 {
+    font-size: xx-large;
+    font-weight: 600;
+    color: var(--Alabaster);
+}
+
+
+.series_display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+    height: 80wh;
+}
+
+.card {
+    background-color: var(--Alabaster);
+    color: var(--Taupe-brown);
+
+}
+
+.price-btn {
+    font-size: larger;
+    color: var(--Alabaster);
+    background-color: var(--Taupe-brown);
+}
+
+.price-btn:hover {
+    background-color: var(--dim-gray);
+    color: var(--Alabaster);
+}
+
+.cart-btn {
+    background-color: var(--Goldenrod);
+    color: var(--Taupe-brown);
+    font-weight: 500;
+}
