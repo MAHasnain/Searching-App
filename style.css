@@ -96,7 +96,7 @@ body {
 }
 
 .price-btn {
-    font-size: larger;
+    font-size: large;
     color: var(--Alabaster);
     background-color: var(--Taupe-brown);
 }
